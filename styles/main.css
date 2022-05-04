@@ -17,7 +17,7 @@ body {
 }
 
 .wrapper2 {
-    width: 1110px;
+    max-width: 1110px;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -133,7 +133,7 @@ body {
 
 .slide2 {
     /* background-image: url('../images/Slide1back.png'); */
-    width: 1920px;
+    max-width: 1920px;
     height: 826px;
      
 }
@@ -186,7 +186,7 @@ body {
 
 .slide3 {
     background-image:  url('../images/slide3back.png'); 
-    width: 1920px;
+    max-width: 1920px;
     height: 757px;
     /* display: flex;   */
 }
@@ -226,7 +226,7 @@ body {
 .slide4 {
     background: linear-gradient(90deg, rgba(41,49,126,1) 0%, rgba(28,34,81,1) 100%);
     /* background-image: url('../images/Slide1back.png'); */
-    width: 1920px;
+    max-width: 1920px;
     height: 806px;
     display: flex;    
 }
@@ -287,7 +287,7 @@ body {
 
 
 .slide5 {
-    width: 1920px;
+    max-width: 1920px;
     height: 716px;
      
 }
@@ -342,7 +342,7 @@ body {
 .slide6 {
     background: linear-gradient(90deg, rgba(41,49,126,1) 0%, rgba(28,34,81,1) 100%);
     /* background-image: url('../images/Slide1back.png'); */
-    width: 1920px;
+    max-width: 1920px;
     height: 1080px;
     display: flex;    
 }
@@ -405,7 +405,7 @@ body {
 .slide7 {
     background: white;
     /* background-image: url('../images/Slide1back.png'); */
-    width: 1920px;
+    max-width: 1920px;
     height: 586px;
     display: flex;
 
@@ -477,7 +477,7 @@ body {
 .slide8 {
     background: linear-gradient(90deg, rgba(41,49,126,1) 0%, rgba(28,34,81,1) 100%);
     /* background-image: url('../images/Slide1back.png'); */
-    width: 1920px;
+    max-width: 1920px;
     height: 318px;
     display: flex;    
 }
@@ -548,7 +548,7 @@ body {
 
 .slide9 {
     background-image: url('../images/slide9.png');
-    width: 1920px;
+    max-width: 1920px;
     height: 520px;
     position: relative; 
 }
@@ -593,6 +593,6 @@ body {
 
 .slide10 {
     background: linear-gradient(90deg, rgba(41,49,126,1) 0%, rgba(28,34,81,1) 100%);
-    width: 1920px;
+    max-width: 1920px;
     height: 149px;
 }
