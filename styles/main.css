@@ -121,8 +121,12 @@ body {
 
 .pic1 {
     position: absolute;
-    bottom: 30px;
-    right: -200px;
+    bottom: 80px;
+    right: -50px;
+}
+
+.pic1 > img {
+    width: 900px;
 }
 
 
